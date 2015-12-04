@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/jsarch/Projects/learningo"
+		}
+	],
+	"settings":
+	{
+		"golang":
+		{
+			"GOPATH": "/Users/jsarch/Projects/learningo"
+		}
+	}
+}
